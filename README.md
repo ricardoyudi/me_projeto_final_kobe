@@ -28,6 +28,7 @@ projeto-kobe/
 │
 ├── README.md               # Visão geral do projeto
 └── requirements.txt        # Dependências do projeto
+```
 
 ## Como Usar
 - **Instalação:**
@@ -55,5 +56,3 @@ Descrição das estratégias para monitorar a saúde do modelo e planos preditiv
 
 ## Conclusão e Resultados
 Análise do desempenho do modelo selecionado em comparação com os dados de desenvolvimento e produção, justificando a aderência do modelo aos novos dados.
-
-
